@@ -24,6 +24,13 @@ Welcome to Vital drops, an exceptional blood management application designed to 
 ### 5. *Comprehensive Donor Profiles*
    Create and manage donor profiles with ease. Keep track of donor information, donation history, and contribution statistics to recognize and appreciate the invaluable contributions of our blood donors.
 
+
+
+   ## Few of our Website SS :-
+
+   ![Donate-Section](https://github.com/DukeVG/Vital-Drops/assets/100790389/8675883c-018f-46f6-9747-04fcb0e158de)
+
+
 ## How to Get Started
 
 1. *Download and Installation*
