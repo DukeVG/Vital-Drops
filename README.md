@@ -1,7 +1,6 @@
 # Vital-Drops
 
 
-logo -- ![VitalDrop!]{}
 
 
 # Vital drops: A Lifesaving Management App
