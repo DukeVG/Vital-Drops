@@ -1,7 +1,7 @@
 # 🔥Vital-Drops
 
 
-![Vital Drop](https://github.com/DukeVG/Vital-Drops/assets/100790389/95b5d1d6-1a65-4767-8a02-8601965e4ad4)
+![Vital Drop]https://github.com/DukeVG/Vital-Drops/assets/100790389/3a8046af-c574-4b3d-9711-d963d37737a2
 
 # Vital drops: A Lifesaving Management App
 
