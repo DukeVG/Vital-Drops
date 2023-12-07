@@ -31,6 +31,9 @@ Welcome to Vital drops, an exceptional blood management application designed to 
    ![Donate-Section](https://github.com/DukeVG/Vital-Drops/assets/100790389/8675883c-018f-46f6-9747-04fcb0e158de)
 
 
+   ![image](https://github.com/DukeVG/Vital-Drops/assets/100790389/79cc7f84-baa9-4ba0-8df8-36d50bb1a833)
+
+
 ## How to Get Started
 
 1. *Download and Installation*
